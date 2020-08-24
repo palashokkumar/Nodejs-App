@@ -1,6 +1,9 @@
 {
-    "dependencies": {
-        "aws-sdk": ">= 2.0.9",
-        "node-uuid": ">= 1.4.1"
-    }
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  }
 }
